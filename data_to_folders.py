@@ -26,8 +26,8 @@ This file will take the downloaded PROSTATEx dataset + segmentations and structu
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--images', type=str, default=[], nargs='+', help='Additional image sequences you want to include. Options are: T2_Sag, T2_Cor, DWI, ADC, and HBV.')
-parser.add_argument('--image_folder', type=str, default='C:\William\Doktorand\Data\ProstateX - Images\PROSTATEx', help='Path to the folder containing the images.')
-parser.add_argument('--segmentation_folder', type=str, default='C:\William\Doktorand\Data\ProstateX - Segmentations', help='Path to the folder containing the segmentations.')
+parser.add_argument('--image_folder', type=str, default='...\PROSTATEx', help='Path to the folder containing the images.')
+parser.add_argument('--segmentation_folder', type=str, default='...\PROSTATEx-segmentations', help='Path to the folder containing the segmentations.')
 parser.add_argument('--output_folder', type=str, default='output', help='Path to the desired output folder.')
 args = parser.parse_args()
 
