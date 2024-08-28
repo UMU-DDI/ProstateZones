@@ -13,7 +13,7 @@ To start, download the images and segmentations.
 #### Images
 The images can be downloaded from the Cancer Imaging Archive (TCIA) at the following link: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=23691656
 #### Segmentations
-The segmentations are available on Zenodo, accessible through the DOI: 10.5281/zenodo.10718469
+The segmentations are available on Zenodo, accessible through the DOI: https://doi.org/10.5281/zenodo.10718469
 
 ### Structure Data
 To pair the images and segmentations, and divide into Train/Validate/Test folders, run the followig lines of code:
