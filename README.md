@@ -93,14 +93,14 @@ To set up the data for running the workflow in Hero, watch the provided videos o
 
 For more information about the dataset, see the Data publication:
 
-....
+Holmlund, W., Simkó, A., Söderkvist, K. et al. ProstateZones – Segmentations of the prostatic zones and urethra for the PROSTATEx dataset. Sci Data 11, 1097 (2024). https://doi.org/10.1038/s41597-024-03945-2
 
 ## Citation
 If you use this dataset in your work, please cite it as:
 
 #### ProstateZones segmentations
 
-- ...
+- Holmlund, W., Simkó, A., Söderkvist, K. et al. ProstateZones – Segmentations of the prostatic zones and urethra for the PROSTATEx dataset. Sci Data 11, 1097 (2024). https://doi.org/10.1038/s41597-024-03945-2
 
 #### PROSTATEx dataset
 
